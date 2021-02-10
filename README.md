@@ -86,11 +86,17 @@ And this is feature of this Bot!
   
 *┏━───────────────╮*
 *┃➥${prefix}sticker*
+
 *┃➥${prefix}ttp* [COMMAND ERROR]
+
 *┃➥${prefix}stickergif*
+
 *┃➥${prefix}stickergiphy*
+
 *┃➥${prefix}stmg*
+
 *┃➥${prefix}meme*
+
 *┃➥${prefix}nulis*
 *┃➥${prefix}quotemaker* [NO RESPONSE]
 *┃➥${prefix}rate*
