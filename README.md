@@ -82,9 +82,12 @@ after running it you need to scan the qr
 
 And this is feature of this Bot!
 
+
 *▌│█║▌│ █║▌│█│║▌*
+
   
 *┏━───────────────╮*
+
 *┃➥${prefix}sticker*
 
 *┃➥${prefix}ttp* [COMMAND ERROR]
@@ -373,11 +376,14 @@ And this is feature of this Bot!
 
 *┗━───────────────╯*
 
+
 *▌│█║▌│ █║▌│█│║▌*
+
 
 ⌜D̶o̶w̶n̶l̶o̶a̶d̶e̶r̶ ⌟:
 
 *┏━───────────────╮*
+
 *┃➥${prefix}fb* [COMMAND ERROR]
 
 *┃➥${prefix}ytdl* [Premium]
@@ -409,11 +415,14 @@ And this is feature of this Bot!
 *┃➥${prefix}joox* [COMMAND ERROR]
 
 *┗━───────────────╯*
+
  _-_-_-_-_-_-_-_-_-_-_-_-_-_
+ 
 
 ⌜A̶n̶i̶m̶e̶ ⌟ツ:
 
 *┏━───────────────╮*
+
 *┃➥${prefix}javcosplay* [Premium]
 
 *┃➥${prefix}listnekopoi* [Premium]
@@ -497,11 +506,14 @@ And this is feature of this Bot!
 *┃➥${prefix}lesbian* [Premium]
 
 *┗━───────────────╯*
+
 _-_-_-_-_-_-_-_-_-_-_-_-_-_
+
 
 ⌜I̶m̶a̶g̶e̶s̶ ⌟:
 
 *┏━───────────────╮*
+
 *┃➥${prefix}ameliandani*
 
 *┃➥${prefix}pictcogan*
@@ -513,12 +525,15 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_
 *┃➥${prefix}images* [COMMAND ERROR]
 
 *┗━───────────────╯*
+
 _-_-_-_-_-_-_-_-_-_-_-_-_-_
+
 
 ⌜t̶e̶n̶t̶a̶n̶g  ̶b̶o̶t̶ ⌟:
 
 
 *┏━───────────────╮*
+
 *┃➥${prefix}tnc*
 
 *┃➥${prefix}donasi*
@@ -532,11 +547,14 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_
 *┃➥${prefix}reportbug*
 
 *┗━───────────────╯*
+
  _-_-_-_-_-_-_-_-_-_-_-_-_-_
+ 
 
 ⌜Owner Bot⌟:
 
 *┏━───────────────╮*
+
 *┃➥${prefix}ban* 
 
 *┃➥${prefix}unban*
@@ -560,6 +578,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_
 *┗━───────────────╯*
 
 *┏━━━━━━━━━━━━━━━━━┓*
+
 *┃➥Owner BOT  : AkaShiro*
 
 *┃➥WA Version : ${waver}*
