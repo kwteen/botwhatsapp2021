@@ -1,6 +1,3 @@
-# botwhatsapp2021
-Bot Whatsapp 2021
-
 <p align="center">
 <img src="https://avatars.githubusercontent.com/AkaShiro22" width="225" height="225"/>
 </p>
