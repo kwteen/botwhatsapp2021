@@ -161,7 +161,7 @@ moment.tz.setDefault('Asia/Jakarta').locale('id')
         const isQuotedVideo = quotedMsg && quotedMsg.type === 'video'
 		
         // [IDENTIFY]
-        const ownerNumber = "62895334951166@c.us"
+        const ownerNumber = "62859106999930@c.us"
         const isOwnerBot = ownerNumber.includes(pengirim)
         const isOwner = ownerNumber.includes(pengirim)
         const isOwnerB = ownerNumber.includes(pengirim)
