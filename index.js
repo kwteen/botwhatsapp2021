@@ -23,7 +23,7 @@ const start = (aruga = new Client()) => {
         let totalMem = chat.groupMetadata.participants.length
         let groupName = chat.contact.name
 	const gucid = gcid.includes(groupId)
-        const ownerNumber = '62895334950905@c.us'
+        const ownerNumber = '62859106999930@c.us'
         const getAllMembers = await aruga.getGroupMembersId(chat.groupMetadata.id)
         if (totalMem < 300 && !getAllMembers.includes(ownerNumber)) {
             aruga.sendText(chat.id, `Upss...\n\nUntuk bisa mengundang bot kedalam grup *${name}*. Diwajibkan untuk donasi dulu yah ^^\n\n10K = 1 Minggu\n20K = 1 Bulan\n50K = Forever\n\nJika berminat, langsung chat contact admin dengan cara ketik: */ownerbot*`).then(() => aruga.leaveGroup(chat.id)).then(() => aruga.deleteChat(chat.id))
